@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "871811084106",
+    "firebase_url": "https://layne-916f0.firebaseio.com",
+    "project_id": "layne-916f0",
+    "storage_bucket": "layne-916f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871811084106:android:1abff8e52cabfacf",
+        "android_client_info": {
+          "package_name": "com.example.layne_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871811084106-b90phnl0ro8ktgf13140gm9nmnj9rm92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_084xLYJsaYPxc-zHFPNvGkZ-79ehekM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871811084106-b90phnl0ro8ktgf13140gm9nmnj9rm92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
